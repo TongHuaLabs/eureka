@@ -1,0 +1,40 @@
+{
+  "choices": [
+    {
+      "id": "5ea7c086-858b-4fa5-99ff-0a82a22d3bd7",
+      "name": "Capture to Temp File",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "00 - Inbox/Temp.md",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": true,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": true,
+        "format": "{{DATE:YYYY-MM-DD-ddd HH:mm}} : {{VALUE}}"
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": true,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    }
+  ],
+  "macros": [],
+  "inputPrompt": "single-line"
+}
