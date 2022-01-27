@@ -1,0 +1,226 @@
+{
+  "editor:swap-line-up": [
+    {
+      "modifiers": ["Alt"],
+      "key": "ArrowUp"
+    }
+  ],
+  "editor:swap-line-down": [
+    {
+      "modifiers": ["Alt"],
+      "key": "ArrowDown"
+    }
+  ],
+  "file-explorer:move-file": [
+    {
+      "modifiers": ["Mod"],
+      "key": "M"
+    }
+  ],
+  "workspace:edit-file-title": [
+    {
+      "modifiers": ["Mod"],
+      "key": "L"
+    }
+  ],
+  "workspace:copy-url": [
+    {
+      "modifiers": ["Mod", "Shift"],
+      "key": "L"
+    }
+  ],
+  "workspace:toggle-pin": [
+    {
+      "modifiers": ["Mod", "Shift"],
+      "key": "E"
+    }
+  ],
+  "app:delete-file": [
+    {
+      "modifiers": ["Mod", "Shift"],
+      "key": "Backspace"
+    }
+  ],
+  "editor:focus-left": [
+    {
+      "modifiers": ["Alt", "Mod"],
+      "key": "ArrowLeft"
+    }
+  ],
+  "app:go-forward": [
+    {
+      "modifiers": ["Mod", "Shift"],
+      "key": "]"
+    }
+  ],
+  "app:go-back": [
+    {
+      "modifiers": ["Mod", "Shift"],
+      "key": "["
+    }
+  ],
+  "editor:focus-right": [
+    {
+      "modifiers": ["Alt", "Mod"],
+      "key": "ArrowRight"
+    }
+  ],
+  "app:toggle-left-sidebar": [
+    {
+      "modifiers": ["Ctrl", "Shift"],
+      "key": "ArrowLeft"
+    }
+  ],
+  "app:toggle-right-sidebar": [
+    {
+      "modifiers": ["Ctrl", "Shift"],
+      "key": "ArrowRight"
+    }
+  ],
+  "sliding-panes-obsidian:toggle-sliding-panes-leaf-auto-width": [
+    {
+      "modifiers": ["Mod", "Shift"],
+      "key": "0"
+    }
+  ],
+  "pane-relief:swap-next": [
+    {
+      "modifiers": ["Ctrl", "Mod"],
+      "key": "ArrowRight"
+    }
+  ],
+  "pane-relief:swap-prev": [
+    {
+      "modifiers": ["Ctrl", "Mod"],
+      "key": "ArrowLeft"
+    }
+  ],
+  "pane-relief:go-1st": [
+    {
+      "modifiers": ["Mod"],
+      "key": "1"
+    }
+  ],
+  "pane-relief:go-2nd": [
+    {
+      "modifiers": ["Mod"],
+      "key": "2"
+    }
+  ],
+  "pane-relief:go-3rd": [
+    {
+      "modifiers": ["Mod"],
+      "key": "3"
+    }
+  ],
+  "pane-relief:go-4th": [
+    {
+      "modifiers": ["Mod"],
+      "key": "4"
+    }
+  ],
+  "pane-relief:go-5th": [
+    {
+      "modifiers": ["Mod"],
+      "key": "5"
+    }
+  ],
+  "pane-relief:go-6th": [
+    {
+      "modifiers": ["Mod"],
+      "key": "6"
+    }
+  ],
+  "pane-relief:go-7th": [
+    {
+      "modifiers": ["Mod"],
+      "key": "7"
+    }
+  ],
+  "pane-relief:go-8th": [
+    {
+      "modifiers": ["Mod"],
+      "key": "8"
+    }
+  ],
+  "pane-relief:go-last": [
+    {
+      "modifiers": ["Mod"],
+      "key": "9"
+    }
+  ],
+  "workspace:close-others": [
+    {
+      "modifiers": ["Mod", "Shift"],
+      "key": "W"
+    }
+  ],
+  "editor:toggle-fold": [
+    {
+      "modifiers": ["Alt"],
+      "key": "/"
+    }
+  ],
+  "editor:fold-all": [
+    {
+      "modifiers": ["Alt"],
+      "key": ","
+    }
+  ],
+  "editor:unfold-all": [
+    {
+      "modifiers": ["Alt"],
+      "key": "."
+    }
+  ],
+  "editor:toggle-bullet-list": [
+    {
+      "modifiers": ["Mod", "Shift"],
+      "key": "Enter"
+    }
+  ],
+  "editor:toggle-numbered-list": [
+    {
+      "modifiers": ["Mod", "Shift"],
+      "key": "1"
+    }
+  ],
+  "note-composer:split-file": [
+    {
+      "modifiers": ["Mod"],
+      "key": "R"
+    }
+  ],
+  "note-composer:extract-heading": [
+    {
+      "modifiers": ["Mod", "Shift"],
+      "key": "R"
+    }
+  ],
+  "note-composer:merge-file": [
+    {
+      "modifiers": ["Mod", "Shift"],
+      "key": "M"
+    }
+  ],
+  "templater-obsidian:insert-templater": [
+    {
+      "modifiers": ["Mod"],
+      "key": "T"
+    }
+  ],
+  "templater-obsidian:replace-in-file-templater": [],
+  "templater-obsidian:jump-to-next-cursor-location": [
+    {
+      "modifiers": ["Alt", "Mod"],
+      "key": "Tab"
+    }
+  ],
+  "templater-obsidian:create-new-note-from-template": [],
+  "editor:insert-wikilink": [
+    {
+      "modifiers": ["Mod", "Shift"],
+      "key": "K"
+    }
+  ]
+}
